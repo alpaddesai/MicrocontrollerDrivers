@@ -1,0 +1,6 @@
+C:\Users\ADG\source\repos\MicroControllerDrivers\MicroControllerDrivers\bin\Release\MicroControllerDrivers.exe.config
+C:\Users\ADG\source\repos\MicroControllerDrivers\MicroControllerDrivers\bin\Release\MicroControllerDrivers.exe
+C:\Users\ADG\source\repos\MicroControllerDrivers\MicroControllerDrivers\bin\Release\MicroControllerDrivers.pdb
+C:\Users\ADG\source\repos\MicroControllerDrivers\MicroControllerDrivers\obj\Release\MicroControllerDrivers.csproj.CoreCompileInputs.cache
+C:\Users\ADG\source\repos\MicroControllerDrivers\MicroControllerDrivers\obj\Release\MicroControllerDrivers.exe
+C:\Users\ADG\source\repos\MicroControllerDrivers\MicroControllerDrivers\obj\Release\MicroControllerDrivers.pdb

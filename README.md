@@ -41,6 +41,7 @@ Provides an example of driver API for a microcontroller. Detailed implementation
 
 
  EXECUTE FUNCTIONAL FOR EACH DEVICE DRIVER
+ 
  Execute Hardware Acquire Sub Routine process event handler
  Internal Hardware Interrupt Read Event is being executed where the Hardware has already been acquired
  Internal Hardware Interrupt Write Event
@@ -93,6 +94,7 @@ Provides an example of driver API for a microcontroller. Detailed implementation
 
 
  EXECUTE SHUTDOWN ROUTINE FOR EACH DEVICE DRIVER
+ 
  Unmap the Memory map for interrupt handling
  Execute Hardware Disable Interrupts SubRoutine
  Execute Interrupt Handling Hardware Shutdown SubRoutine

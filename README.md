@@ -11,6 +11,7 @@ Provides an example of driver API for a microcontroller. Detailed implementation
  EXECUTE INITIAL START UP ROUTINE FOR EACH DEVICE DRIVER
 
  Execute Hardware startup routine Interrupt hardware variable is set to active
+ 
  Install Updates for Interrupt Handling
  Execute Memory map for interrupt handling
  Execute enable and self test interrupt handling

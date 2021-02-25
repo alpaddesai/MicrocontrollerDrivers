@@ -5,6 +5,6 @@ Provides an example of driver API for a microcontroller. Detailed implementation
 ## Interest
 ![image](image.png)
 
-Advanced knowledge reference : https://github.com/alpaddesai/Algorithms
+Advanced knowledge reference : https://github.com/alpaddesai/Algorithms and https://github.com/alpaddesai/WirelessNetworkingProducts
 
 

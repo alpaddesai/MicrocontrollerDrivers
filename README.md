@@ -9,6 +9,9 @@ Provides an example of driver API for a microcontroller. Detailed implementation
 ## Java Certification 
 ![image](ProgramminginJava.jpg)
 
+## Design Patterns
+![image](DesignPatterns.png)
+
 Advanced knowledge reference : https://github.com/alpaddesai/Algorithms, https://github.com/alpaddesai/ObjectOrientedDesignProgramming, and https://github.com/alpaddesai/ObjectOrientedProgrammingCSharp
 
 

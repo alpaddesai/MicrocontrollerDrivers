@@ -9,6 +9,9 @@ Provides an example of driver API for a microcontroller. Detailed implementation
 ## Java Certification 
 ![image](ProgramminginJava.jpg)
 
+## Modern Java
+![image](ModernJava.jpg)
+
 ## Design Patterns
 ![image](DesignPatterns.png)
 

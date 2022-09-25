@@ -18,6 +18,8 @@ Provides an example of driver API for a microcontroller. Detailed implementation
 ## Design Patterns Certification
 ![image](DesignPatternsJavaCertificate.jpg)
 
+![image](USCopyrightCertificate.png)
+
 Advanced knowledge reference : https://github.com/alpaddesai/Algorithms, https://github.com/alpaddesai/ObjectOrientedDesignProgramming, and https://github.com/alpaddesai/ObjectOrientedProgrammingCSharp
 
 

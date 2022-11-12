@@ -20,6 +20,8 @@ Provides an example of driver API for a microcontroller. Detailed implementation
 
 ![image](USCopyrightCertificate.png)
 
+![image](Ethics.jgp)
+
 Advanced knowledge reference : https://github.com/alpaddesai/Algorithms, https://github.com/alpaddesai/ObjectOrientedDesignProgramming, and https://github.com/alpaddesai/ObjectOrientedProgrammingCSharp
 
 

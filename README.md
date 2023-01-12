@@ -2,22 +2,6 @@
 
 Provides an example of driver API for a microcontroller. Detailed implementation is not included. For details please click on the program.cs. Confidential information is not displayed . All images are either custom by Alpa D Desai or a reference name is included. Most of the images are custom. 
 
-
-## Java Certification
-![image](Java.jpg)
-
-## Java Certification 
-![image](ProgramminginJava.jpg)
-
-## Modern Java
-![image](ModernJava.jpg)
-
-## Design Patterns
-![image](DesignPatterns.png)
-
-## Design Patterns Certification
-![image](DesignPatternsJavaCertificate.jpg)
-
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
